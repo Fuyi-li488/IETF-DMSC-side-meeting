@@ -11,6 +11,9 @@ https://datatracker.ietf.org/doc/draft-song-dmsc-scalable-name-forwarding/  <br>
 https://datatracker.ietf.org/doc/draft-lin-dmsc-content-based-service-router/  <br> 
 https://datatracker.ietf.org/doc/draft-yuan-dmsc-technical-considerations  <br> 
 
+Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc. <br> 
+Mailing List: https://www.ietf.org/mailman/listinfo/dmsc <br> 
+
 Charter:<br>  
 Name: Distributed Micro Services Communication(DMSC) <br> 
 Description: <br>  
@@ -24,6 +27,3 @@ Then, in order to solve the challenges of the current Service Mesh infrastructur
 Apart from this, recent research has shown that network devices undertaking some computing tasks can greatly improve the network and application performance in some scenarios, like for instance aggregating path-computing , key-value(K-V) cache, and in network securities etc. In the context of such heterogeneity of scenarios, it is desirable to have a generic and flexible framework, able to explicitly signaling the computing, service operation to be performed by network devices, which can be regarded as one kind of distributed services that are deployed within the network. <br> 
 
 DMSC group will try to accomodate the distributed services around the network and within the network in one coherent architecture to accomplish the service discovery, service routing and service engineering functions to satify the emerged scenarios and requirements. <br> 
-
-Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc. <br> 
-Mailing List: https://www.ietf.org/mailman/listinfo/dmsc <br> 
