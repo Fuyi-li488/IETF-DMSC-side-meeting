@@ -1,6 +1,18 @@
 # IETF-DMSC-side-meeting
-Charter: <br>  
-Name: Distributed Micro Services Communication(DMSC) <br>  
+Relevant Internet-Drafts: <br>  
+Use Cases: <br> 
+https://datatracker.ietf.org/doc/draft-song-dmsc-promblem-and-requirements/  <br> 
+https://datatracker.ietf.org/doc/draft-lou-rtgwg-sinc/  <br> 
+https://datatracker.ietf.org/doc/html/draft-yang-dmsc-distributed-model/  <br> 
+https://datatracker.ietf.org/doc/html/draft-si-service-mesh-dta/  <br> 
+Solutions: <br>
+https://datatracker.ietf.org/doc/draft-li-dmsc-architecture/  <br> 
+https://datatracker.ietf.org/doc/draft-song-dmsc-scalable-name-forwarding/  <br> 
+https://datatracker.ietf.org/doc/draft-lin-dmsc-content-based-service-router/  <br> 
+https://datatracker.ietf.org/doc/draft-yuan-dmsc-technical-considerations  <br> 
+
+Charter:<br>  
+Name: Distributed Micro Services Communication(DMSC) <br> 
 Description: <br>  
 The DMSC(Distributed Micro Services Communication) BOF aims to build one service oriented, distributed infrastructure that can accommodate the communications requirements among various micro-services, which are currently relying on the centralized controlled Service Mesh to accomplish the tasks. It will focus on tailoring the various HTTP methods, QUIC/TCP based micro services to the content semantic based framework, to facilitate the development of one distributed, service oriented network that can carry micro services, CDN and various live broadcast services. <br> 
 
@@ -15,16 +27,3 @@ DMSC group will try to accomodate the distributed services around the network an
 
 Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc. <br> 
 Mailing List: https://www.ietf.org/mailman/listinfo/dmsc <br> 
-
-Relevant Internet-Drafts: <br>  
-Use Cases: <br> 
-https://datatracker.ietf.org/doc/draft-song-dmsc-promblem-and-requirements/  <br> 
-https://datatracker.ietf.org/doc/draft-lou-rtgwg-sinc/  <br> 
-https://datatracker.ietf.org/doc/html/draft-yang-dmsc-distributed-model/  <br> 
-https://datatracker.ietf.org/doc/html/draft-si-service-mesh-dta/  <br> 
-
-Solutions: <br>  
-https://datatracker.ietf.org/doc/draft-li-dmsc-architecture/  <br> 
-https://datatracker.ietf.org/doc/draft-song-dmsc-scalable-name-forwarding/  <br> 
-https://datatracker.ietf.org/doc/draft-lin-dmsc-content-based-service-router/  <br> 
-https://datatracker.ietf.org/doc/draft-yuan-dmsc-technical-considerations  <br> 
